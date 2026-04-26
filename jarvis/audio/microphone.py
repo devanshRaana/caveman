@@ -50,7 +50,7 @@ class MicrophoneStream:
         frames = []
         silence_chunks = 0
         speech_detected = False
-        silence_threshold_rms = 200  # tune per environment
+        silence_threshold_rms = 100  # tune per environment
         silence_needed = int(self.silence_dur * self.sample_rate / self.chunk)
         max_chunks = int(self.max_sec * self.sample_rate / self.chunk)
 

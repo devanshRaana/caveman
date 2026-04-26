@@ -66,7 +66,7 @@ For MULTIPLE commands (chains), respond with:
 RULES:
 - If the user says "create a to-do list" → file_create with filename "todo.txt"
 - If adding items to an existing file → file_edit with add_lines
-- If the user asks about recent news, current events, real-time info, or facts you don't know → web_search
+- If the user asks ANY factual question about history, science, people, places, current events, conflicts, mythos, or "tell me about X" → web_search
 - If the user explicitly says "search for X" or "google X" → web_search
 - If the user wants to search YouTube → youtube_search
 - If the user wants to create a folder → folder_create
@@ -83,7 +83,7 @@ RULES:
     def __init__(self):
         self._client = None
         llm_cfg = CONFIG.get("llm", {})
-        self.model = llm_cfg.get("model", "mistral")
+        self.model = llm_cfg.get("fast_model", llm_cfg.get("model", "mistral"))
         self.base_url = llm_cfg.get("base_url", "http://localhost:11434")
         self._load_client()
 
@@ -125,10 +125,14 @@ RULES:
             json_str = self._extract_json(raw)
             result = json.loads(json_str)
 
-            # Validate structure
             if "action" not in result:
                 logger.warning("IntentRouter: No 'action' in LLM response, falling back")
                 return self._fallback_parse(user_text)
+
+            if "params" not in result:
+                result["params"] = {}
+            if "_raw" not in result["params"]:
+                result["params"]["_raw"] = user_text
 
             logger.info(f"IntentRouter parsed: action={result['action']}")
             return result

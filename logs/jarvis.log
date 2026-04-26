@@ -1423,3 +1423,94 @@ Stacktrace:
 [08:52:57] [ERROR] IntentRouter error: model 'gemma' not found (status code: 404)
 [08:52:57] [INFO] Intent parsed: general_chat
 [08:52:58] [ERROR] LLM think error: model 'gemma' not found (status code: 404)
+[09:13:58] [INFO] Initializing JARVIS V2.2 components…
+[09:13:58] [INFO] Loading V2.1 components…
+[09:13:58] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[09:13:58] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[09:14:00] [INFO] ChromaDB memory collection ready.
+[09:14:00] [INFO] Ollama connected. Model: gemma4:31b
+[09:14:00] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'code_execution', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[09:14:00] [INFO] IntentRouter: Ollama connected for intent parsing
+[09:14:02] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\.gemini\antigravity\scratch\jarvis\venv\Lib\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\.gemini\antigravity\scratch\jarvis\venv\Lib\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[09:14:02] [INFO] Using speech_recognition fallback for wake word…
+[09:14:20] [INFO] Wake word detected via fallback.
+[09:14:20] [INFO] Loading Whisper model 'base' on cpu…
+[09:14:25] [INFO] Whisper model ready.
+[09:18:48] [INFO] Initializing JARVIS V2.2 components…
+[09:18:48] [INFO] Loading V2.1 components…
+[09:18:49] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[09:18:49] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[09:18:50] [INFO] ChromaDB memory collection ready.
+[09:18:51] [INFO] Ollama connected. Model: gemma4:31b
+[09:18:51] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'code_execution', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[09:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[09:18:53] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\.gemini\antigravity\scratch\jarvis\venv\Lib\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\.gemini\antigravity\scratch\jarvis\venv\Lib\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[09:18:53] [INFO] Using speech_recognition fallback for wake word…
+[09:19:10] [INFO] Wake word detected via fallback.
+[09:19:11] [INFO] Loading Whisper model 'base' on cpu…
+[09:19:17] [INFO] Whisper model ready.
+[09:19:40] [INFO] IntentRouter parsed: action=system_info
+[09:19:40] [INFO] Intent parsed: system_info
+[09:19:40] [WARNING] SkillRegistry: No skill for action 'system_info'
+[09:23:39] [INFO] Initializing JARVIS V2.2 components…
+[09:23:39] [INFO] Loading V2.1 components…
+[09:23:39] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[09:23:39] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[09:23:40] [INFO] ChromaDB memory collection ready.
+[09:23:41] [INFO] Ollama connected. Model: gemma4:31b
+[09:23:41] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'code_execution', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[09:23:41] [INFO] IntentRouter: Ollama connected for intent parsing
+[09:23:42] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\.gemini\antigravity\scratch\jarvis\venv\Lib\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\.gemini\antigravity\scratch\jarvis\venv\Lib\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[09:23:42] [INFO] Using speech_recognition fallback for wake word…
+[09:24:01] [INFO] Loading Whisper model 'base' on cpu…
+[09:24:06] [INFO] Whisper model ready.
+[09:24:11] [INFO] Wake word detected via fallback.
+[09:24:29] [INFO] IntentRouter parsed: action=general_chat
+[09:24:29] [INFO] Intent parsed: general_chat
+[09:30:49] [INFO] Initializing JARVIS V2.2 components…
+[09:30:49] [INFO] Loading V2.1 components…
+[09:30:49] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[09:30:49] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[09:30:50] [INFO] ChromaDB memory collection ready.
+[09:30:51] [INFO] Ollama connected. Model: llama3.2:latest
+[09:30:51] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'code_execution', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[09:30:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[09:30:52] [WARNING] OpenWakeWord load failed: Tried to import the tflite runtime for provided tflite models, but it was not found. Please install it using `pip install tflite-runtime`. Using energy fallback.
+[09:30:52] [INFO] Using speech_recognition fallback for wake word…
+[09:31:10] [INFO] Loading Whisper model 'base' on cpu…
+[09:31:16] [INFO] Wake word detected via fallback.
+[09:31:17] [INFO] Whisper model ready.
+[09:31:41] [INFO] IntentRouter parsed: action=system_info
+[09:31:41] [INFO] Intent parsed: system_info
+[09:31:41] [INFO] SkillRegistry: action 'system_info' -> system_control
+[09:32:51] [INFO] Wake word detected via fallback.
+[09:32:53] [INFO] IntentRouter parsed: action=web_search
+[09:32:53] [INFO] Intent parsed: web_search
+[09:32:53] [INFO] Connectivity: Internet is available
+[09:32:56] [INFO] SkillRegistry: action 'web_search' -> web_search
+[09:33:35] [INFO] IntentRouter parsed: action=general_chat
+[09:33:35] [INFO] Intent parsed: general_chat
+[09:34:22] [INFO] IntentRouter parsed: action=web_search
+[09:34:22] [INFO] Intent parsed: web_search
+[09:34:28] [INFO] SkillRegistry: action 'web_search' -> web_search
+[09:35:43] [INFO] IntentRouter parsed: action=general_chat
+[09:35:43] [INFO] Intent parsed: general_chat
+[09:36:30] [INFO] IntentRouter parsed: action=general_chat
+[09:36:30] [INFO] Intent parsed: general_chat
+[09:41:20] [INFO] Initializing JARVIS V2.2 components…
+[09:41:20] [INFO] Loading V2.1 components…
+[09:41:20] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[09:41:20] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[09:41:21] [INFO] ChromaDB memory collection ready.
+[09:41:21] [INFO] Ollama connected. Model: llama3.2:latest
+[09:41:21] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'code_execution', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[09:41:21] [INFO] IntentRouter: Ollama connected for intent parsing
+[09:41:22] [WARNING] OpenWakeWord load failed: Tried to import the tflite runtime for provided tflite models, but it was not found. Please install it using `pip install tflite-runtime`. Using energy fallback.
+[09:41:22] [INFO] Using speech_recognition fallback for wake word…
+[09:41:42] [INFO] Loading Whisper model 'base' on cpu…
+[09:41:45] [INFO] Whisper model ready.
+[09:42:03] [INFO] IntentRouter parsed: action=web_search
+[09:42:03] [INFO] Intent parsed: web_search
+[09:42:03] [INFO] Connectivity: Internet is available
+[09:42:04] [INFO] WebSearch: Found 5 results for 'U.S. in Revolution'
+[09:42:04] [INFO] SkillRegistry: action 'web_search' -> web_search

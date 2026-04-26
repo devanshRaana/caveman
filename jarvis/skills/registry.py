@@ -83,6 +83,15 @@ class SkillRegistry:
             "youtube_search": self.browser,
             # System
             "system_control": self.system_control,
+            "system_info": self.system_control,
+            "battery": self.system_control,
+            "shutdown": self.system_control,
+            "restart": self.system_control,
+            "sleep": self.system_control,
+            "lock": self.system_control,
+            "volume_up": self.system_control,
+            "volume_down": self.system_control,
+            "mute": self.system_control,
             # Notes
             "take_note": self.notes,
             "read_notes": self.notes,

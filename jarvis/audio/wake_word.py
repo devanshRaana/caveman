@@ -40,7 +40,7 @@ class WakeWordDetector:
                 from openwakeword.model import Model
                 self._model = Model(
                     wakeword_models=["hey_jarvis"],
-                    inference_framework="onnx",
+                    inference_framework="tflite",
                 )
                 logger.info("OpenWakeWord model loaded.")
                 return True

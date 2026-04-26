@@ -301,6 +301,8 @@ class JARVIS:
                 result = chain_engine.execute(steps)
                 if RICH:
                     console.print(f"[bold cyan]JARVIS:[/bold cyan] {result}")
+                brain.inject_context("user", user_text)
+                brain.inject_context("system", f"[JARVIS executed chain of commands and responded: {result}]")
                 return
 
         # ── Web Search (Real-Time Knowledge RAG) ───────────
@@ -329,6 +331,7 @@ class JARVIS:
             skill_response = skills.execute_action(intent)
             if skill_response:
                 self._speak_and_log(tts, skill_response)
+                brain.inject_context("user", user_text)
                 brain.inject_context("system",
                     f"[JARVIS executed '{action}' and responded: {skill_response}]")
                 return
