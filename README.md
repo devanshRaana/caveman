@@ -1,26 +1,26 @@
-# 🤖 JARVIS — Local Personal Assistant
+# JARVIS — Local Personal Assistant
 
 > **Just A Rather Very Intelligent System**
 > 100% local. Zero cloud. Zero privacy risk.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Details |
 |---|---|
-| 👂 **Wake Word** | "Hey JARVIS" — always listening |
-| 🎤 **Voice Input** | Whisper AI — best local STT available |
-| 🧠 **AI Brain** | Ollama + Mistral 7B — fully local LLM |
-| 🔊 **Voice Output** | pyttsx3 — natural local TTS |
-| 💾 **Long-term Memory** | ChromaDB + SQLite — remembers what you tell it |
-| ⚡ **Skills** | Time, Apps, Notes, Files, System, Clipboard |
-| 🖥️ **System Tray** | Boots silently, lives in your taskbar |
-| 🚀 **Auto-startup** | Boots with Windows via Task Scheduler |
+| Wake Word | "Hey JARVIS" — always listening |
+| Voice Input | Whisper AI — best local STT available |
+| AI Brain | Ollama + Mistral 7B — fully local LLM |
+| Voice Output | pyttsx3 — natural local TTS |
+| Long-term Memory | ChromaDB + SQLite — remembers what you tell it |
+| Skills | Time, Apps, Notes, Files, System, Clipboard |
+| System Tray | Boots silently, lives in your taskbar |
+| Auto-startup | Boots with Windows via Task Scheduler |
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Step 1 — Prerequisites
 - Python 3.10+ → [python.org](https://python.org)
@@ -35,10 +35,10 @@ install.bat
 ```bat
 ollama pull mistral
 ```
-> 💡 **Your setup (32GB RAM) → use `llama3`** — it's the best:
+> Note: **Your setup (32GB RAM) → use `llama3`** — it's the best:
 > - 8 GB RAM → `ollama pull phi3`
 > - 16 GB RAM → `ollama pull mistral`
-> - **32 GB RAM → `ollama pull llama3` ← YOU ARE HERE** ✅
+> - **32 GB RAM → `ollama pull llama3` ← YOU ARE HERE**
 
 ### Step 4 — Run JARVIS
 ```bat
@@ -54,7 +54,7 @@ register_startup.bat
 
 ---
 
-## 🗣️ What You Can Say
+## What You Can Say
 
 | Say... | JARVIS Does... |
 |---|---|
@@ -76,7 +76,7 @@ register_startup.bat
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 JARVIS/
@@ -114,7 +114,7 @@ JARVIS/
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 Edit `config.yaml` to customize everything:
 - **LLM model** — switch between mistral, phi3, llama3
@@ -125,10 +125,10 @@ Edit `config.yaml` to customize everything:
 
 ---
 
-## 🔒 Privacy
+## Privacy
 
-- ✅ All AI runs on your device
-- ✅ No microphone data ever leaves your laptop
-- ✅ No API keys, no internet required
-- ✅ Memory stored in local SQLite database
-- ✅ Works 100% offline
+- All AI runs on your device
+- No microphone data ever leaves your laptop
+- No API keys, no internet required
+- Memory stored in local SQLite database
+- Works 100% offline
