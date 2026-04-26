@@ -1,0 +1,1425 @@
+[02:07:52] [INFO] CommandChain: Executing 3 chained commands
+[02:07:52] [INFO] CommandChain: Step 1/3 — file_create
+[02:07:52] [INFO] CommandChain: Step 2/3 — file_edit
+[02:07:52] [INFO] CommandChain: Step 3/3 — file_open
+[02:07:52] [INFO] CommandChain: Executing 2 chained commands
+[02:07:52] [INFO] CommandChain: Step 1/2 — file_create
+[02:07:52] [INFO] CommandChain: Step 2/2 — file_read
+[02:07:52] [INFO] CommandChain: Executing 3 chained commands
+[02:07:52] [INFO] CommandChain: Step 1/3 — file_create
+[02:07:52] [INFO] CommandChain: Step 2/3 — bad_action
+[02:07:52] [ERROR] CommandChain: Step 2 failed: Intentional error
+[02:07:52] [INFO] CommandChain: Step 3/3 — file_read
+[02:07:52] [INFO] CommandChain: Executing 2 chained commands
+[02:07:52] [INFO] CommandChain: Step 1/2 — step1
+[02:07:52] [INFO] CommandChain: Step 2/2 — step2
+[02:07:52] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_tneb10o9\test.txt
+[02:07:52] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_2mbtdj6m\todo.txt
+[02:07:52] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_p49utmo3\notes.txt
+[02:07:52] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_3psb7qix\dup.txt
+[02:07:52] [INFO] FileManager: Added 2 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_4m838hh7\editable.txt
+[02:07:52] [INFO] FileManager: Removed 1 lines from C:\Users\devan\AppData\Local\Temp\jarvis_test_qftpjvg4\removable.txt
+[02:07:52] [INFO] FileManager: Added 1 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_6lv2mvkt\newedit.txt
+[02:07:52] [INFO] FileManager: Deleted C:\Users\devan\AppData\Local\Temp\jarvis_test_yovkjxr4\deleteme.txt
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:07:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] CommandChain: Executing 3 chained commands
+[02:08:39] [INFO] CommandChain: Step 1/3 — file_create
+[02:08:39] [INFO] CommandChain: Step 2/3 — file_edit
+[02:08:39] [INFO] CommandChain: Step 3/3 — file_open
+[02:08:39] [INFO] CommandChain: Executing 2 chained commands
+[02:08:39] [INFO] CommandChain: Step 1/2 — file_create
+[02:08:39] [INFO] CommandChain: Step 2/2 — file_read
+[02:08:39] [INFO] CommandChain: Executing 3 chained commands
+[02:08:39] [INFO] CommandChain: Step 1/3 — file_create
+[02:08:39] [INFO] CommandChain: Step 2/3 — bad_action
+[02:08:39] [ERROR] CommandChain: Step 2 failed: Intentional error
+[02:08:39] [INFO] CommandChain: Step 3/3 — file_read
+[02:08:39] [INFO] CommandChain: Executing 2 chained commands
+[02:08:39] [INFO] CommandChain: Step 1/2 — step1
+[02:08:39] [INFO] CommandChain: Step 2/2 — step2
+[02:08:39] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_s1iguko0\test.txt
+[02:08:39] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_3zoh2qpp\todo.txt
+[02:08:39] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_mrjyto5b\notes.txt
+[02:08:39] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_si43l50b\dup.txt
+[02:08:39] [INFO] FileManager: Added 2 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_dxtoezlv\editable.txt
+[02:08:39] [INFO] FileManager: Removed 1 lines from C:\Users\devan\AppData\Local\Temp\jarvis_test_mutoez3o\removable.txt
+[02:08:39] [INFO] FileManager: Added 1 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_ar3vq3qi\newedit.txt
+[02:08:39] [INFO] FileManager: Deleted C:\Users\devan\AppData\Local\Temp\jarvis_test_fyla4ge7\deleteme.txt
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:08:39] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:16:50] [INFO] Initializing JARVIS V2 components…
+[02:16:50] [INFO] Loading V2 components…
+[02:16:50] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[02:16:57] [INFO] ChromaDB memory collection ready.
+[02:16:59] [INFO] Ollama connected. Model: llama3
+[02:16:59] [INFO] SkillRegistry V2 loaded: ['memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[02:16:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:16:59] [INFO] TTS engine initialized. Voice: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_DAVID_11.0
+[02:17:14] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[02:17:15] [INFO] Using speech_recognition fallback for wake word…
+[02:17:56] [INFO] Wake word detected via fallback.
+[02:18:05] [INFO] Loading Whisper model 'base' on cpu…
+[02:18:50] [INFO] Whisper model ready.
+[02:18:52] [ERROR] IntentRouter error: model 'llama3' not found (status code: 404)
+[02:18:52] [INFO] Intent parsed: general_chat
+[02:19:16] [ERROR] LLM think error: model 'llama3' not found (status code: 404)
+[02:20:34] [INFO] Wake word detected via fallback.
+[02:20:42] [ERROR] IntentRouter error: model 'llama3' not found (status code: 404)
+[02:20:42] [INFO] Intent parsed: general_chat
+[02:20:43] [ERROR] LLM think error: model 'llama3' not found (status code: 404)
+[02:24:55] [INFO] CommandChain: Executing 3 chained commands
+[02:24:55] [INFO] CommandChain: Step 1/3 — file_create
+[02:24:55] [INFO] CommandChain: Step 2/3 — file_edit
+[02:24:55] [INFO] CommandChain: Step 3/3 — file_open
+[02:24:55] [INFO] CommandChain: Executing 2 chained commands
+[02:24:55] [INFO] CommandChain: Step 1/2 — file_create
+[02:24:55] [INFO] CommandChain: Step 2/2 — file_read
+[02:24:55] [INFO] CommandChain: Executing 3 chained commands
+[02:24:55] [INFO] CommandChain: Step 1/3 — file_create
+[02:24:55] [INFO] CommandChain: Step 2/3 — bad_action
+[02:24:55] [ERROR] CommandChain: Step 2 failed: Intentional error
+[02:24:55] [INFO] CommandChain: Step 3/3 — file_read
+[02:24:55] [INFO] CommandChain: Executing 2 chained commands
+[02:24:55] [INFO] CommandChain: Step 1/2 — step1
+[02:24:55] [INFO] CommandChain: Step 2/2 — step2
+[02:24:55] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_z9gvbm2p\test.txt
+[02:24:55] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_4d449598\todo.txt
+[02:24:55] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_v563cju5\notes.txt
+[02:24:55] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_1w3f8op7\dup.txt
+[02:24:55] [INFO] FileManager: Added 2 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_1jqz1tyg\editable.txt
+[02:24:55] [INFO] FileManager: Removed 1 lines from C:\Users\devan\AppData\Local\Temp\jarvis_test_k44smwwn\removable.txt
+[02:24:55] [INFO] FileManager: Added 1 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_ja2msyy0\newedit.txt
+[02:24:55] [INFO] FileManager: Deleted C:\Users\devan\AppData\Local\Temp\jarvis_test_3gjcrc31\deleteme.txt
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:24:56] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:26:29] [INFO] Initializing JARVIS V2.1 components…
+[02:26:29] [INFO] Loading V2.1 components…
+[02:26:29] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[02:26:30] [INFO] ChromaDB memory collection ready.
+[02:26:30] [INFO] Ollama connected. Model: llama3.2
+[02:26:30] [INFO] SkillRegistry V2 loaded: ['memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[02:26:30] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:26:30] [INFO] TTS engine initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[02:26:32] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[02:26:32] [INFO] Using speech_recognition fallback for wake word…
+[02:26:49] [INFO] Wake word detected via fallback.
+[02:26:49] [INFO] Loading Whisper model 'base' on cpu…
+[02:26:54] [INFO] Whisper model ready.
+[02:27:08] [INFO] IntentRouter parsed: action=general_chat
+[02:27:08] [INFO] Intent parsed: general_chat
+[02:27:44] [INFO] IntentRouter parsed: action=file_create
+[02:27:44] [INFO] Intent parsed: file_create
+[02:27:44] [INFO] FileManager: Created C:\Users\devan\Desktop\todo.txt
+[02:28:07] [INFO] IntentRouter parsed: action=file_edit
+[02:28:07] [INFO] Intent parsed: file_edit
+[02:28:07] [INFO] FileManager: Added 1 lines to C:\Users\devan\Desktop\todo.txt
+[02:28:19] [INFO] IntentRouter parsed: action=open_app
+[02:28:19] [INFO] Intent parsed: open_app
+[02:28:29] [INFO] IntentRouter parsed: action=open_app
+[02:28:29] [INFO] Intent parsed: open_app
+[02:29:02] [WARNING] IntentRouter: JSON parse failed (Expecting ',' delimiter: line 1 column 102 (char 101)), using fallback
+[02:29:02] [INFO] Intent parsed: web_search
+[02:29:02] [INFO] Connectivity: Internet is available
+[02:29:03] [INFO] WebSearch: Found 5 results for 'Search Mark Robert on New Deal on Chrome.'
+[02:31:39] [INFO] IntentRouter parsed: action=file_open
+[02:31:39] [INFO] Intent parsed: file_open
+[02:31:51] [INFO] IntentRouter parsed: action=open_app
+[02:31:51] [INFO] Intent parsed: open_app
+[02:32:07] [INFO] IntentRouter parsed: action=datetime
+[02:32:07] [INFO] Intent parsed: datetime
+[02:32:22] [INFO] IntentRouter parsed: action=general_chat
+[02:32:22] [INFO] Intent parsed: general_chat
+[02:33:10] [INFO] IntentRouter parsed: action=general_chat
+[02:33:10] [INFO] Intent parsed: general_chat
+[02:34:05] [INFO] IntentRouter parsed: action=web_search
+[02:34:05] [INFO] Intent parsed: web_search
+[02:34:20] [INFO] IntentRouter parsed: action=web_search
+[02:34:20] [INFO] Intent parsed: web_search
+[02:34:42] [INFO] IntentRouter parsed: action=web_search
+[02:34:42] [INFO] Intent parsed: web_search
+[02:34:56] [WARNING] IntentRouter: JSON parse failed (Extra data: line 1 column 53 (char 52)), using fallback
+[02:34:56] [INFO] Intent parsed: web_search
+[02:35:14] [INFO] IntentRouter parsed: action=general_chat
+[02:35:14] [INFO] Intent parsed: general_chat
+[02:37:14] [INFO] CommandChain: Executing 3 chained commands
+[02:37:14] [INFO] CommandChain: Step 1/3 — file_create
+[02:37:14] [INFO] CommandChain: Step 2/3 — file_edit
+[02:37:14] [INFO] CommandChain: Step 3/3 — file_open
+[02:37:14] [INFO] CommandChain: Executing 2 chained commands
+[02:37:14] [INFO] CommandChain: Step 1/2 — file_create
+[02:37:14] [INFO] CommandChain: Step 2/2 — file_read
+[02:37:15] [INFO] CommandChain: Executing 3 chained commands
+[02:37:15] [INFO] CommandChain: Step 1/3 — file_create
+[02:37:15] [INFO] CommandChain: Step 2/3 — bad_action
+[02:37:15] [ERROR] CommandChain: Step 2 failed: Intentional error
+[02:37:15] [INFO] CommandChain: Step 3/3 — file_read
+[02:37:15] [INFO] CommandChain: Executing 2 chained commands
+[02:37:15] [INFO] CommandChain: Step 1/2 — step1
+[02:37:15] [INFO] CommandChain: Step 2/2 — step2
+[02:37:15] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_ainfc5zt\test.txt
+[02:37:15] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_z6m67wix\todo.txt
+[02:37:15] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_7a2z84kp\notes.txt
+[02:37:15] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_b6dvmbwc\dup.txt
+[02:37:15] [INFO] FileManager: Added 2 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_s1h_c1t3\editable.txt
+[02:37:15] [INFO] FileManager: Removed 1 lines from C:\Users\devan\AppData\Local\Temp\jarvis_test_kkd285h7\removable.txt
+[02:37:15] [INFO] FileManager: Added 1 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_xg1p_ozw\newedit.txt
+[02:37:15] [INFO] FileManager: Deleted C:\Users\devan\AppData\Local\Temp\jarvis_test_4r65i_a7\deleteme.txt
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:37:15] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:52] [INFO] CommandChain: Executing 3 chained commands
+[02:43:52] [INFO] CommandChain: Step 1/3 — file_create
+[02:43:52] [INFO] CommandChain: Step 2/3 — file_edit
+[02:43:52] [INFO] CommandChain: Step 3/3 — file_open
+[02:43:52] [INFO] CommandChain: Executing 2 chained commands
+[02:43:52] [INFO] CommandChain: Step 1/2 — file_create
+[02:43:52] [INFO] CommandChain: Step 2/2 — file_read
+[02:43:52] [INFO] CommandChain: Executing 3 chained commands
+[02:43:52] [INFO] CommandChain: Step 1/3 — file_create
+[02:43:52] [INFO] CommandChain: Step 2/3 — bad_action
+[02:43:52] [ERROR] CommandChain: Step 2 failed: Intentional error
+[02:43:52] [INFO] CommandChain: Step 3/3 — file_read
+[02:43:52] [INFO] CommandChain: Executing 2 chained commands
+[02:43:52] [INFO] CommandChain: Step 1/2 — step1
+[02:43:52] [INFO] CommandChain: Step 2/2 — step2
+[02:43:52] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_acqq4lzg\test.txt
+[02:43:52] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_h2lk546u\todo.txt
+[02:43:52] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_q1wkaxrf\notes.txt
+[02:43:52] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_h53wqy8z\dup.txt
+[02:43:52] [INFO] FileManager: Added 2 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_1jr5zwc0\editable.txt
+[02:43:52] [INFO] FileManager: Removed 1 lines from C:\Users\devan\AppData\Local\Temp\jarvis_test_9kmf0py9\removable.txt
+[02:43:52] [INFO] FileManager: Added 1 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_1irnqswl\newedit.txt
+[02:43:52] [INFO] FileManager: Deleted C:\Users\devan\AppData\Local\Temp\jarvis_test_3op2bjgr\deleteme.txt
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[02:43:53] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:33:15] [INFO] Initializing JARVIS V2.2 components…
+[13:33:15] [INFO] Loading V2.1 components…
+[13:33:15] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[13:33:28] [INFO] ChromaDB memory collection ready.
+[13:33:32] [INFO] Ollama connected. Model: llama3.2
+[13:33:32] [INFO] SkillRegistry V2 loaded: ['memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[13:33:32] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:33:33] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[13:33:48] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[13:33:49] [INFO] Using speech_recognition fallback for wake word…
+[13:34:05] [INFO] Wake word detected via fallback.
+[13:34:05] [INFO] Loading Whisper model 'base' on cpu…
+[13:34:51] [INFO] Whisper model ready.
+[13:35:11] [INFO] IntentRouter parsed: action=general_chat
+[13:35:11] [INFO] Intent parsed: general_chat
+[13:35:39] [INFO] IntentRouter parsed: action=open_app
+[13:35:39] [INFO] Intent parsed: open_app
+[13:36:35] [INFO] IntentRouter parsed: action=open_app
+[13:36:35] [INFO] Intent parsed: open_app
+[13:37:10] [INFO] IntentRouter parsed: action=web_search
+[13:37:10] [INFO] Intent parsed: web_search
+[13:37:10] [INFO] Connectivity: Internet is available
+[13:37:11] [INFO] WebSearch: Found 5 results for 'U.S. Iran War'
+[13:38:10] [INFO] IntentRouter parsed: action=general_chat
+[13:38:10] [INFO] Intent parsed: general_chat
+[13:39:17] [INFO] IntentRouter parsed: action=web_search
+[13:39:17] [INFO] Intent parsed: web_search
+[13:50:17] [INFO] CommandChain: Executing 3 chained commands
+[13:50:17] [INFO] CommandChain: Step 1/3 — file_create
+[13:50:17] [INFO] CommandChain: Step 2/3 — file_edit
+[13:50:17] [INFO] CommandChain: Step 3/3 — file_open
+[13:50:17] [INFO] CommandChain: Executing 2 chained commands
+[13:50:17] [INFO] CommandChain: Step 1/2 — file_create
+[13:50:17] [INFO] CommandChain: Step 2/2 — file_read
+[13:50:17] [INFO] CommandChain: Executing 3 chained commands
+[13:50:17] [INFO] CommandChain: Step 1/3 — file_create
+[13:50:17] [INFO] CommandChain: Step 2/3 — bad_action
+[13:50:17] [ERROR] CommandChain: Step 2 failed: Intentional error
+[13:50:17] [INFO] CommandChain: Step 3/3 — file_read
+[13:50:17] [INFO] CommandChain: Executing 2 chained commands
+[13:50:17] [INFO] CommandChain: Step 1/2 — step1
+[13:50:17] [INFO] CommandChain: Step 2/2 — step2
+[13:50:17] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_vt0pgum5\test.txt
+[13:50:17] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_8jpser_x\todo.txt
+[13:50:17] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_e90i_ws4\notes.txt
+[13:50:17] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_fedxrcv7\dup.txt
+[13:50:17] [INFO] FileManager: Added 2 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_1psjny7n\editable.txt
+[13:50:17] [INFO] FileManager: Removed 1 lines from C:\Users\devan\AppData\Local\Temp\jarvis_test_8nmzu1bv\removable.txt
+[13:50:17] [INFO] FileManager: Added 1 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_ae7drtdi\newedit.txt
+[13:50:17] [INFO] FileManager: Deleted C:\Users\devan\AppData\Local\Temp\jarvis_test_1jr0isjd\deleteme.txt
+[13:50:17] [INFO] FileManager: Searching system for file 'nope.txt'
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:50:23] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:54:16] [INFO] JARVIS V2.1 shutdown complete.
+[13:54:31] [INFO] Initializing JARVIS V2.2 components…
+[13:54:31] [INFO] Loading V2.1 components…
+[13:54:31] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[13:54:32] [INFO] ChromaDB memory collection ready.
+[13:54:32] [INFO] Ollama connected. Model: llama3.2
+[13:54:32] [INFO] SkillRegistry V2 loaded: ['memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[13:54:32] [INFO] IntentRouter: Ollama connected for intent parsing
+[13:54:32] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[13:54:33] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[13:54:34] [INFO] Using speech_recognition fallback for wake word…
+[13:54:52] [INFO] Loading Whisper model 'base' on cpu…
+[13:54:55] [INFO] Wake word detected via fallback.
+[13:54:58] [INFO] Whisper model ready.
+[13:55:14] [INFO] IntentRouter parsed: action=play_spotify
+[13:55:14] [INFO] Intent parsed: play_spotify
+[13:55:14] [INFO] SkillRegistry: action 'play_spotify' -> app_launcher
+[13:55:24] [INFO] IntentRouter parsed: action=play_spotify
+[13:55:24] [INFO] Intent parsed: play_spotify
+[13:55:24] [INFO] SkillRegistry: action 'play_spotify' -> app_launcher
+[13:55:33] [INFO] IntentRouter parsed: action=open_app
+[13:55:33] [INFO] Intent parsed: open_app
+[13:55:33] [INFO] AppLauncher: Opened spotify via 'start spotify'
+[13:55:33] [INFO] SkillRegistry: action 'open_app' -> app_launcher
+[13:55:45] [INFO] IntentRouter parsed: action=open_app
+[13:55:45] [INFO] Intent parsed: open_app
+[13:55:45] [INFO] AppLauncher: Opened chrome via 'start chrome'
+[13:55:45] [INFO] SkillRegistry: action 'open_app' -> app_launcher
+[13:55:57] [WARNING] IntentRouter: JSON parse failed (Expecting ',' delimiter: line 1 column 92 (char 91)), using fallback
+[13:55:57] [INFO] Intent parsed: youtube_search
+[13:55:57] [INFO] BrowserSkill: YouTube search for 'search youtube on chrome'
+[13:55:57] [INFO] SkillRegistry: action 'youtube_search' -> browser
+[13:56:11] [INFO] IntentRouter parsed: action=open_app
+[13:56:11] [INFO] Intent parsed: open_app
+[13:56:11] [INFO] AppLauncher: Opened chrome via 'start chrome'
+[13:56:11] [INFO] SkillRegistry: action 'open_app' -> app_launcher
+[13:56:24] [INFO] IntentRouter parsed: action=youtube_search
+[13:56:24] [INFO] Intent parsed: youtube_search
+[13:56:24] [INFO] BrowserSkill: YouTube search for 'Mark Rober'
+[13:56:24] [INFO] SkillRegistry: action 'youtube_search' -> browser
+[13:56:35] [INFO] IntentRouter parsed: action=start_video_call
+[13:56:35] [INFO] Intent parsed: start_video_call
+[13:56:35] [INFO] Connectivity: Internet is available
+[13:56:42] [ERROR] BrowserSkill: WebDriver init failed: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xffef73+10893]
+	chromedriver!GetHandleVerifier [0xfff0a4+109c4]
+	chromedriver!(No symbol) [0xde2130]
+	chromedriver!(No symbol) [0xe174ab]
+	chromedriver!(No symbol) [0xe12690]
+	chromedriver!(No symbol) [0xe59caf]
+	chromedriver!(No symbol) [0xe594c7]
+	chromedriver!(No symbol) [0xe4d896]
+	chromedriver!(No symbol) [0xe20229]
+	chromedriver!(No symbol) [0xe20fe4]
+	chromedriver!GetHandleVerifier [0x12620f9+273a19]
+	chromedriver!GetHandleVerifier [0x125d703+26f023]
+	chromedriver!GetHandleVerifier [0x127b42b+28cd4b]
+	chromedriver!GetHandleVerifier [0x1017ee8+29808]
+	chromedriver!GetHandleVerifier [0x101fc2d+3154d]
+	chromedriver!GetHandleVerifier [0x1007998+192b8]
+	chromedriver!GetHandleVerifier [0x1007b62+19482]
+	chromedriver!GetHandleVerifier [0xff127a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75ed5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77e7d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e7d7a1+231]
+
+[13:56:44] [INFO] BrowserSkill: Chrome WebDriver initialized (fresh profile)
+[13:56:46] [INFO] BrowserSkill: Navigating to WhatsApp Web
+[13:56:51] [ERROR] BrowserSkill: WhatsApp automation error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.80)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xffef73+10893]
+	chromedriver!GetHandleVerifier [0xfff0a4+109c4]
+	chromedriver!(No symbol) [0xde2130]
+	chromedriver!(No symbol) [0xdc0c33]
+	chromedriver!(No symbol) [0xe5430b]
+	chromedriver!(No symbol) [0xe6a309]
+	chromedriver!(No symbol) [0xe4d896]
+	chromedriver!(No symbol) [0xe20229]
+	chromedriver!(No symbol) [0xe20fe4]
+	chromedriver!GetHandleVerifier [0x12620f9+273a19]
+	chromedriver!GetHandleVerifier [0x125d703+26f023]
+	chromedriver!GetHandleVerifier [0x127b42b+28cd4b]
+	chromedriver!GetHandleVerifier [0x1017ee8+29808]
+	chromedriver!GetHandleVerifier [0x101fc2d+3154d]
+	chromedriver!GetHandleVerifier [0x1007998+192b8]
+	chromedriver!GetHandleVerifier [0x1007b62+19482]
+	chromedriver!GetHandleVerifier [0xff127a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75ed5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77e7d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e7d7a1+231]
+
+[13:56:51] [INFO] SkillRegistry: action 'start_video_call' -> browser
+[13:57:05] [INFO] IntentRouter parsed: action=folder_open
+[13:57:05] [INFO] Intent parsed: folder_open
+[13:57:05] [INFO] FileManager: Opened folder C:\Users\devan\Desktop
+[13:57:05] [INFO] SkillRegistry: action 'folder_open' -> file_manager
+[13:57:14] [INFO] IntentRouter parsed: action=open_app
+[13:57:14] [INFO] Intent parsed: open_app
+[13:57:14] [INFO] AppLauncher: Opened whatsapp via 'start whatsapp'
+[13:57:14] [INFO] SkillRegistry: action 'open_app' -> app_launcher
+[13:57:41] [INFO] IntentRouter parsed: action=folder_open
+[13:57:41] [INFO] Intent parsed: folder_open
+[13:57:41] [INFO] FileManager: Searching system for folder 'vscore'
+[13:57:47] [INFO] SkillRegistry: action 'folder_open' -> file_manager
+[13:57:58] [INFO] IntentRouter parsed: action=open_app
+[13:57:58] [INFO] Intent parsed: open_app
+[13:57:58] [INFO] AppLauncher: Opened vscode via 'start code'
+[13:57:58] [INFO] SkillRegistry: action 'open_app' -> app_launcher
+[13:58:20] [INFO] IntentRouter parsed: action=web_search
+[13:58:20] [INFO] Intent parsed: web_search
+[13:58:20] [INFO] SkillRegistry: action 'web_search' -> web_search
+[13:59:13] [INFO] IntentRouter parsed: action=web_search
+[13:59:13] [INFO] Intent parsed: web_search
+[13:59:14] [INFO] SkillRegistry: action 'web_search' -> web_search
+[14:00:26] [INFO] IntentRouter parsed: action=general_chat
+[14:00:26] [INFO] Intent parsed: general_chat
+[14:01:01] [INFO] IntentRouter parsed: action=file_open
+[14:01:01] [INFO] Intent parsed: file_open
+[14:01:01] [INFO] FileManager: Opened C:\Users\devan\Desktop\todo.txt
+[14:01:01] [INFO] SkillRegistry: action 'file_open' -> file_manager
+[14:01:20] [WARNING] IntentRouter: JSON parse failed (Expecting ',' delimiter: line 1 column 332 (char 331)), using fallback
+[14:01:20] [INFO] Intent parsed: general_chat
+[14:02:25] [INFO] IntentRouter parsed: action=file_create
+[14:02:25] [INFO] Intent parsed: file_create
+[14:02:25] [INFO] SkillRegistry: action 'file_create' -> file_manager
+[14:02:41] [INFO] IntentRouter parsed: action=general_chat
+[14:02:41] [INFO] Intent parsed: general_chat
+[14:03:20] [INFO] CommandChain: Executing 3 chained commands
+[14:03:20] [INFO] CommandChain: Step 1/3 — file_create
+[14:03:20] [INFO] CommandChain: Step 2/3 — file_edit
+[14:03:20] [INFO] CommandChain: Step 3/3 — file_open
+[14:03:20] [INFO] CommandChain: Executing 2 chained commands
+[14:03:20] [INFO] CommandChain: Step 1/2 — file_create
+[14:03:20] [INFO] CommandChain: Step 2/2 — file_read
+[14:03:20] [INFO] CommandChain: Executing 3 chained commands
+[14:03:20] [INFO] CommandChain: Step 1/3 — file_create
+[14:03:20] [INFO] CommandChain: Step 2/3 — bad_action
+[14:03:20] [ERROR] CommandChain: Step 2 failed: Intentional error
+[14:03:20] [INFO] CommandChain: Step 3/3 — file_read
+[14:03:20] [INFO] CommandChain: Executing 2 chained commands
+[14:03:20] [INFO] CommandChain: Step 1/2 — step1
+[14:03:20] [INFO] CommandChain: Step 2/2 — step2
+[14:03:20] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_9hqyaew5\test.txt
+[14:03:20] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_x7nsmb_0\todo.txt
+[14:03:20] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_xk0hjr99\notes.txt
+[14:03:20] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_77m4m3zj\dup.txt
+[14:03:20] [INFO] FileManager: Added 2 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_ohb_874p\editable.txt
+[14:03:20] [INFO] FileManager: Removed 1 lines from C:\Users\devan\AppData\Local\Temp\jarvis_test_6umuvzli\removable.txt
+[14:03:20] [INFO] FileManager: Added 1 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_y94k0gxs\newedit.txt
+[14:03:20] [INFO] FileManager: Deleted C:\Users\devan\AppData\Local\Temp\jarvis_test_l0uvtnj9\deleteme.txt
+[14:03:20] [INFO] FileManager: Searching system for file 'nope.txt'
+[14:03:23] [INFO] IntentRouter parsed: action=file_open
+[14:03:23] [INFO] Intent parsed: file_open
+[14:03:23] [INFO] FileManager: Opened C:\Users\devan\Desktop\todo.txt
+[14:03:23] [INFO] SkillRegistry: action 'file_open' -> file_manager
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:03:42] [INFO] IntentRouter parsed: action=remember
+[14:03:42] [INFO] Intent parsed: remember
+[14:03:42] [INFO] Memory stored (id=1): drink water
+[14:03:42] [INFO] SkillRegistry: action 'remember' -> memory
+[14:03:57] [WARNING] IntentRouter: JSON parse failed (Expecting ',' delimiter: line 1 column 135 (char 134)), using fallback
+[14:03:57] [INFO] Intent parsed: general_chat
+[14:04:41] [INFO] IntentRouter parsed: action=general_chat
+[14:04:41] [INFO] Intent parsed: general_chat
+[14:04:53] [INFO] CommandChain: Executing 3 chained commands
+[14:04:53] [INFO] CommandChain: Step 1/3 — file_create
+[14:04:53] [INFO] CommandChain: Step 2/3 — file_edit
+[14:04:53] [INFO] CommandChain: Step 3/3 — file_open
+[14:04:53] [INFO] CommandChain: Executing 2 chained commands
+[14:04:53] [INFO] CommandChain: Step 1/2 — file_create
+[14:04:53] [INFO] CommandChain: Step 2/2 — file_read
+[14:04:53] [INFO] CommandChain: Executing 3 chained commands
+[14:04:53] [INFO] CommandChain: Step 1/3 — file_create
+[14:04:53] [INFO] CommandChain: Step 2/3 — bad_action
+[14:04:53] [ERROR] CommandChain: Step 2 failed: Intentional error
+[14:04:53] [INFO] CommandChain: Step 3/3 — file_read
+[14:04:53] [INFO] CommandChain: Executing 2 chained commands
+[14:04:53] [INFO] CommandChain: Step 1/2 — step1
+[14:04:53] [INFO] CommandChain: Step 2/2 — step2
+[14:04:53] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_2c7nykji\test.txt
+[14:04:53] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_dbvk36eg\todo.txt
+[14:04:53] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_ju06osyv\notes.txt
+[14:04:53] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_v7ywm0xb\dup.txt
+[14:04:53] [INFO] FileManager: Added 2 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_4wvnlpac\editable.txt
+[14:04:53] [INFO] FileManager: Removed 1 lines from C:\Users\devan\AppData\Local\Temp\jarvis_test_ezjzfzf8\removable.txt
+[14:04:53] [INFO] FileManager: Added 1 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_rbajosn5\newedit.txt
+[14:04:53] [INFO] FileManager: Deleted C:\Users\devan\AppData\Local\Temp\jarvis_test_io0s8m7j\deleteme.txt
+[14:04:53] [INFO] FileManager: Searching system for file 'nope.txt'
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:04:59] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:05:25] [INFO] IntentRouter parsed: action=datetime
+[14:05:25] [INFO] Intent parsed: datetime
+[14:05:25] [INFO] SkillRegistry: action 'datetime' -> datetime
+[14:05:39] [INFO] IntentRouter parsed: action=system_control
+[14:05:39] [INFO] Intent parsed: system_control
+[14:05:39] [INFO] SkillRegistry: action 'system_control' -> system_control
+[14:05:50] [INFO] IntentRouter parsed: action=general_chat
+[14:05:50] [INFO] Intent parsed: general_chat
+[14:06:30] [INFO] IntentRouter parsed: action=start_meet
+[14:06:30] [INFO] Intent parsed: start_meet
+[14:06:30] [INFO] SkillRegistry: action 'start_meet' -> browser
+[14:06:47] [INFO] IntentRouter parsed: action=web_search
+[14:06:47] [INFO] Intent parsed: web_search
+[14:06:48] [INFO] SkillRegistry: action 'web_search' -> web_search
+[14:08:12] [INFO] Initializing JARVIS V2.2 components…
+[14:08:12] [INFO] Loading V2.1 components…
+[14:08:12] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[14:08:12] [INFO] ChromaDB memory collection ready.
+[14:08:13] [INFO] Ollama connected. Model: llama3.2
+[14:08:13] [INFO] SkillRegistry V2 loaded: ['memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[14:08:13] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:08:13] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[14:08:14] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[14:08:14] [INFO] Using speech_recognition fallback for wake word…
+[14:08:33] [INFO] Wake word detected via fallback.
+[14:08:34] [INFO] Loading Whisper model 'base' on cpu…
+[14:08:44] [INFO] Whisper model ready.
+[14:08:58] [INFO] IntentRouter parsed: action=web_search
+[14:08:58] [INFO] Intent parsed: web_search
+[14:08:58] [INFO] Connectivity: Internet is available
+[14:09:00] [INFO] WebSearch: Found 5 results for 'latest U.S. Iran conflict news'
+[14:09:00] [INFO] SkillRegistry: action 'web_search' -> web_search
+[14:10:10] [INFO] IntentRouter parsed: action=web_search
+[14:10:10] [INFO] Intent parsed: web_search
+[14:10:11] [INFO] WebSearch: Found 5 results for 'India current news'
+[14:10:11] [INFO] SkillRegistry: action 'web_search' -> web_search
+[14:11:18] [INFO] IntentRouter parsed: action=system_control
+[14:11:18] [INFO] Intent parsed: system_control
+[14:11:18] [INFO] SkillRegistry: action 'system_control' -> system_control
+[14:11:29] [INFO] IntentRouter parsed: action=system_control
+[14:11:29] [INFO] Intent parsed: system_control
+[14:11:29] [INFO] SkillRegistry: action 'system_control' -> system_control
+[14:11:41] [INFO] IntentRouter parsed: action=folder_open
+[14:11:41] [INFO] Intent parsed: folder_open
+[14:11:41] [INFO] FileManager: Searching system for folder 'games'
+[14:11:46] [INFO] SkillRegistry: action 'folder_open' -> file_manager
+[14:12:01] [INFO] IntentRouter parsed: action=folder_open
+[14:12:01] [INFO] Intent parsed: folder_open
+[14:12:01] [INFO] FileManager: Opened folder C:\Users\devan\Desktop
+[14:12:01] [INFO] SkillRegistry: action 'folder_open' -> file_manager
+[14:12:22] [INFO] IntentRouter parsed: action=folder_open
+[14:12:22] [INFO] Intent parsed: folder_open
+[14:12:22] [INFO] FileManager: Searching system for folder 'games'
+[14:12:27] [INFO] SkillRegistry: action 'folder_open' -> file_manager
+[14:12:42] [INFO] IntentRouter parsed: action=folder_open
+[14:12:42] [INFO] Intent parsed: folder_open
+[14:12:42] [INFO] FileManager: Searching system for folder 'help'
+[14:12:47] [INFO] SkillRegistry: action 'folder_open' -> file_manager
+[14:13:00] [INFO] IntentRouter parsed: action=folder_open
+[14:13:00] [INFO] Intent parsed: folder_open
+[14:13:00] [INFO] FileManager: Searching system for folder 'Wallpaper'
+[14:13:05] [INFO] SkillRegistry: action 'folder_open' -> file_manager
+[14:13:30] [INFO] IntentRouter parsed: action=web_search
+[14:13:30] [INFO] Intent parsed: web_search
+[14:13:33] [INFO] SkillRegistry: action 'web_search' -> web_search
+[14:14:29] [INFO] IntentRouter parsed: action=folder_open
+[14:14:29] [INFO] Intent parsed: folder_open
+[14:14:29] [INFO] FileManager: Searching system for folder 'wallpaper'
+[14:14:34] [INFO] SkillRegistry: action 'folder_open' -> file_manager
+[14:16:35] [INFO] FileManager: Fast searching system for folder 'Wallpaper'
+[14:16:36] [INFO] FileManager: Found and opened C:\Users\devan\OneDrive\Desktop\Wallpaper
+[14:17:15] [INFO] Connectivity: Internet is available
+[14:17:21] [INFO] WebSearch: Found 5 results for 'who is elon musk'
+[14:18:50] [INFO] CommandChain: Executing 3 chained commands
+[14:18:50] [INFO] CommandChain: Step 1/3 — file_create
+[14:18:50] [INFO] CommandChain: Step 2/3 — file_edit
+[14:18:50] [INFO] CommandChain: Step 3/3 — file_open
+[14:18:50] [INFO] CommandChain: Executing 2 chained commands
+[14:18:50] [INFO] CommandChain: Step 1/2 — file_create
+[14:18:50] [INFO] CommandChain: Step 2/2 — file_read
+[14:18:50] [INFO] CommandChain: Executing 3 chained commands
+[14:18:50] [INFO] CommandChain: Step 1/3 — file_create
+[14:18:50] [INFO] CommandChain: Step 2/3 — bad_action
+[14:18:50] [ERROR] CommandChain: Step 2 failed: Intentional error
+[14:18:50] [INFO] CommandChain: Step 3/3 — file_read
+[14:18:50] [INFO] CommandChain: Executing 2 chained commands
+[14:18:50] [INFO] CommandChain: Step 1/2 — step1
+[14:18:50] [INFO] CommandChain: Step 2/2 — step2
+[14:18:50] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_4y5wtgdv\test.txt
+[14:18:50] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_fnq5rvwe\todo.txt
+[14:18:50] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_36931r1_\notes.txt
+[14:18:50] [INFO] FileManager: Created C:\Users\devan\AppData\Local\Temp\jarvis_test_z7fw60y0\dup.txt
+[14:18:50] [INFO] FileManager: Added 2 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_21tcruj5\editable.txt
+[14:18:50] [INFO] FileManager: Removed 1 lines from C:\Users\devan\AppData\Local\Temp\jarvis_test_zrcupowh\removable.txt
+[14:18:50] [INFO] FileManager: Added 1 lines to C:\Users\devan\AppData\Local\Temp\jarvis_test_6ugb4mit\newedit.txt
+[14:18:50] [INFO] FileManager: Deleted C:\Users\devan\AppData\Local\Temp\jarvis_test_r1djcfs1\deleteme.txt
+[14:18:50] [INFO] FileManager: Fast searching system for file 'nope.txt'
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:18:51] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:19:31] [INFO] Initializing JARVIS V2.2 components…
+[14:19:31] [INFO] Loading V2.1 components…
+[14:19:31] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[14:19:32] [INFO] ChromaDB memory collection ready.
+[14:19:33] [INFO] Ollama connected. Model: llama3.2
+[14:19:33] [INFO] SkillRegistry V2 loaded: ['memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[14:19:33] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:19:33] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[14:19:34] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[14:19:34] [INFO] Using speech_recognition fallback for wake word…
+[14:19:51] [INFO] Loading Whisper model 'base' on cpu…
+[14:19:55] [INFO] Whisper model ready.
+[14:20:10] [INFO] IntentRouter parsed: action=folder_open
+[14:20:10] [INFO] Intent parsed: folder_open
+[14:20:10] [INFO] FileManager: Fast searching system for folder 'Games'
+[14:20:10] [INFO] FileManager: Found and opened C:\Users\devan\OneDrive\Desktop\Games
+[14:20:10] [INFO] SkillRegistry: action 'folder_open' -> file_manager
+[14:20:27] [INFO] IntentRouter parsed: action=web_search
+[14:20:27] [INFO] Intent parsed: web_search
+[14:20:27] [INFO] Connectivity: Internet is available
+[14:20:28] [INFO] WebSearch: Found 5 results for 'latest oil price per barrel'
+[14:20:28] [INFO] SkillRegistry: action 'web_search' -> web_search
+[14:21:24] [INFO] IntentRouter parsed: action=system_control
+[14:21:24] [INFO] Intent parsed: system_control
+[14:21:24] [INFO] SkillRegistry: action 'system_control' -> system_control
+[14:22:23] [INFO] IntentRouter parsed: action=datetime
+[14:22:23] [INFO] Intent parsed: datetime
+[14:22:23] [INFO] SkillRegistry: action 'datetime' -> datetime
+[14:22:36] [INFO] IntentRouter parsed: action=system_control
+[14:22:36] [INFO] Intent parsed: system_control
+[14:22:36] [INFO] SkillRegistry: action 'system_control' -> system_control
+[14:33:30] [INFO] ToolsSkill: Starting background alarm for 1s (pizza)
+[14:33:31] [INFO] ToolsSkill: Alarm ringing: Sir, your timer for pizza is up!
+[14:34:45] [INFO] Initializing JARVIS V2.2 components…
+[14:34:45] [INFO] Loading V2.1 components…
+[14:34:45] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[14:34:45] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[14:34:46] [INFO] ChromaDB memory collection ready.
+[14:34:46] [INFO] Ollama connected. Model: llama3.2
+[14:34:46] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[14:34:46] [INFO] IntentRouter: Ollama connected for intent parsing
+[14:34:47] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[14:34:48] [INFO] Using speech_recognition fallback for wake word…
+[14:35:03] [INFO] Wake word detected via fallback.
+[14:35:04] [INFO] Wake word detected via fallback.
+[14:35:05] [INFO] Loading Whisper model 'base' on cpu…
+[14:35:13] [INFO] Whisper model ready.
+[14:35:19] [INFO] IntentRouter parsed: action=remember
+[14:35:19] [INFO] Intent parsed: remember
+[14:35:20] [INFO] Memory stored (id=2): drink water
+[14:35:20] [INFO] SkillRegistry: action 'remember' -> memory
+[14:35:26] [INFO] IntentRouter parsed: action=set_reminder
+[14:35:26] [INFO] Intent parsed: set_reminder
+[14:35:26] [INFO] ToolsSkill: Starting background alarm for 120s (drink water)
+[14:35:26] [INFO] SkillRegistry: action 'set_reminder' -> tools
+[14:35:43] [WARNING] IntentRouter: JSON parse failed (Extra data: line 2 column 1 (char 70)), using fallback
+[14:35:43] [INFO] Intent parsed: general_chat
+[14:35:48] [INFO] IntentRouter parsed: action=web_search
+[14:35:48] [INFO] Intent parsed: web_search
+[14:35:52] [INFO] SkillRegistry: action 'web_search' -> web_search
+[14:37:08] [INFO] IntentRouter parsed: action=send_whatsapp
+[14:37:08] [INFO] Intent parsed: send_whatsapp
+[14:37:08] [INFO] Connectivity: Internet is available
+[14:37:13] [INFO] IntentRouter parsed: action=send_whatsapp
+[14:37:13] [INFO] Intent parsed: send_whatsapp
+[14:37:13] [ERROR] BrowserSkill: WebDriver init failed: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x36ef73+10893]
+	chromedriver!GetHandleVerifier [0x36f0a4+109c4]
+	chromedriver!(No symbol) [0x152130]
+	chromedriver!(No symbol) [0x1874ab]
+	chromedriver!(No symbol) [0x182690]
+	chromedriver!(No symbol) [0x1c9caf]
+	chromedriver!(No symbol) [0x1c94c7]
+	chromedriver!(No symbol) [0x1bd896]
+	chromedriver!(No symbol) [0x190229]
+	chromedriver!(No symbol) [0x190fe4]
+	chromedriver!GetHandleVerifier [0x5d20f9+273a19]
+	chromedriver!GetHandleVerifier [0x5cd703+26f023]
+	chromedriver!GetHandleVerifier [0x5eb42b+28cd4b]
+	chromedriver!GetHandleVerifier [0x387ee8+29808]
+	chromedriver!GetHandleVerifier [0x38fc2d+3154d]
+	chromedriver!GetHandleVerifier [0x377998+192b8]
+	chromedriver!GetHandleVerifier [0x377b62+19482]
+	chromedriver!GetHandleVerifier [0x36127a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75ed5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77e7d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e7d7a1+231]
+	(No symbol) [(nil)]
+
+[14:37:15] [INFO] BrowserSkill: Chrome WebDriver initialized (fresh profile)
+[14:37:17] [ERROR] BrowserSkill: WebDriver init failed: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x36ef73+10893]
+	chromedriver!GetHandleVerifier [0x36f0a4+109c4]
+	chromedriver!(No symbol) [0x152130]
+	chromedriver!(No symbol) [0x1874ab]
+	chromedriver!(No symbol) [0x182690]
+	chromedriver!(No symbol) [0x1c9caf]
+	chromedriver!(No symbol) [0x1c94c7]
+	chromedriver!(No symbol) [0x1bd896]
+	chromedriver!(No symbol) [0x190229]
+	chromedriver!(No symbol) [0x190fe4]
+	chromedriver!GetHandleVerifier [0x5d20f9+273a19]
+	chromedriver!GetHandleVerifier [0x5cd703+26f023]
+	chromedriver!GetHandleVerifier [0x5eb42b+28cd4b]
+	chromedriver!GetHandleVerifier [0x387ee8+29808]
+	chromedriver!GetHandleVerifier [0x38fc2d+3154d]
+	chromedriver!GetHandleVerifier [0x377998+192b8]
+	chromedriver!GetHandleVerifier [0x377b62+19482]
+	chromedriver!GetHandleVerifier [0x36127a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75ed5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77e7d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e7d7a1+231]
+	(No symbol) [(nil)]
+
+[14:37:18] [INFO] BrowserSkill: Navigating to WhatsApp Web
+[14:37:19] [INFO] BrowserSkill: Chrome WebDriver initialized (fresh profile)
+[14:37:23] [INFO] BrowserSkill: Navigating to WhatsApp Web
+[14:37:26] [INFO] ToolsSkill: Alarm ringing: Sir, I am reminding you: drink water
+[14:37:28] [ERROR] BrowserSkill: WhatsApp automation error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.80)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x36ef73+10893]
+	chromedriver!GetHandleVerifier [0x36f0a4+109c4]
+	chromedriver!(No symbol) [0x152130]
+	chromedriver!(No symbol) [0x130c33]
+	chromedriver!(No symbol) [0x1c430b]
+	chromedriver!(No symbol) [0x1da309]
+	chromedriver!(No symbol) [0x1bd896]
+	chromedriver!(No symbol) [0x190229]
+	chromedriver!(No symbol) [0x190fe4]
+	chromedriver!GetHandleVerifier [0x5d20f9+273a19]
+	chromedriver!GetHandleVerifier [0x5cd703+26f023]
+	chromedriver!GetHandleVerifier [0x5eb42b+28cd4b]
+	chromedriver!GetHandleVerifier [0x387ee8+29808]
+	chromedriver!GetHandleVerifier [0x38fc2d+3154d]
+	chromedriver!GetHandleVerifier [0x377998+192b8]
+	chromedriver!GetHandleVerifier [0x377b62+19482]
+	chromedriver!GetHandleVerifier [0x36127a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75ed5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77e7d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e7d7a1+231]
+	(No symbol) [(nil)]
+
+[14:37:28] [INFO] SkillRegistry: action 'send_whatsapp' -> browser
+[14:37:29] [ERROR] BrowserSkill: WhatsApp automation error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=146.0.7680.80); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x36ef73+10893]
+	chromedriver!GetHandleVerifier [0x36f0a4+109c4]
+	chromedriver!(No symbol) [0x152130]
+	chromedriver!(No symbol) [0x141629]
+	chromedriver!(No symbol) [0x1415a6]
+	chromedriver!(No symbol) [0x140103]
+	chromedriver!(No symbol) [0x140b26]
+	chromedriver!(No symbol) [0x156e0e]
+	chromedriver!(No symbol) [0x1575f5]
+	chromedriver!(No symbol) [0x15b03a]
+	chromedriver!(No symbol) [0x15b0c8]
+	chromedriver!(No symbol) [0x19a630]
+	chromedriver!(No symbol) [0x19ae5b]
+	chromedriver!(No symbol) [0x1dd092]
+	chromedriver!(No symbol) [0x1bdb44]
+	chromedriver!(No symbol) [0x1da8d4]
+	chromedriver!(No symbol) [0x1bd896]
+	chromedriver!(No symbol) [0x190229]
+	chromedriver!(No symbol) [0x190fe4]
+	chromedriver!GetHandleVerifier [0x5d20f9+273a19]
+	chromedriver!GetHandleVerifier [0x5cd703+26f023]
+	chromedriver!GetHandleVerifier [0x5eb42b+28cd4b]
+	chromedriver!GetHandleVerifier [0x387ee8+29808]
+	chromedriver!GetHandleVerifier [0x38fc2d+3154d]
+	chromedriver!GetHandleVerifier [0x377998+192b8]
+	chromedriver!GetHandleVerifier [0x377b62+19482]
+	chromedriver!GetHandleVerifier [0x36127a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75ed5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77e7d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e7d7a1+231]
+	(No symbol) [(nil)]
+
+[14:37:29] [INFO] SkillRegistry: action 'send_whatsapp' -> browser
+[14:37:53] [INFO] IntentRouter parsed: action=general_chat
+[14:37:53] [INFO] Intent parsed: general_chat
+[14:38:53] [INFO] IntentRouter parsed: action=general_chat
+[14:38:53] [INFO] Intent parsed: general_chat
+[14:40:07] [INFO] IntentRouter parsed: action=general_chat
+[14:40:07] [INFO] Intent parsed: general_chat
+[14:43:17] [INFO] IntentRouter parsed: action=datetime
+[14:43:17] [INFO] Intent parsed: datetime
+[14:43:17] [INFO] SkillRegistry: action 'datetime' -> datetime
+[14:43:30] [INFO] IntentRouter parsed: action=system_control
+[14:43:30] [INFO] Intent parsed: system_control
+[14:43:30] [INFO] SkillRegistry: action 'system_control' -> system_control
+[14:43:41] [INFO] IntentRouter parsed: action=system_control
+[14:43:41] [INFO] Intent parsed: system_control
+[14:43:41] [INFO] SkillRegistry: action 'system_control' -> system_control
+[14:43:51] [INFO] IntentRouter parsed: action=general_chat
+[14:43:51] [INFO] Intent parsed: general_chat
+[14:45:04] [INFO] IntentRouter parsed: action=remember
+[14:45:04] [INFO] Intent parsed: remember
+[14:45:04] [INFO] Memory stored (id=3): wake up in 10 minutes
+[14:45:04] [INFO] SkillRegistry: action 'remember' -> memory
+[17:30:28] [INFO] Initializing JARVIS V2.2 components…
+[17:30:28] [INFO] Loading V2.1 components…
+[17:30:28] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[17:30:28] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[17:30:29] [INFO] ChromaDB memory collection ready.
+[17:30:29] [INFO] Ollama connected. Model: llama3.2
+[17:30:29] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[17:30:29] [INFO] IntentRouter: Ollama connected for intent parsing
+[17:30:30] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[17:30:30] [INFO] Using speech_recognition fallback for wake word…
+[21:45:24] [INFO] Initializing JARVIS V2.2 components…
+[21:45:24] [INFO] Loading V2.1 components…
+[21:45:25] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[21:45:25] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[21:45:32] [INFO] ChromaDB memory collection ready.
+[21:45:34] [INFO] Ollama connected. Model: llama3.2
+[21:45:34] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[21:45:34] [INFO] IntentRouter: Ollama connected for intent parsing
+[21:45:45] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[21:45:45] [INFO] Using speech_recognition fallback for wake word…
+[09:02:21] [INFO] Initializing JARVIS V2.2 components…
+[09:02:21] [INFO] Loading V2.1 components…
+[09:02:22] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[09:02:22] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[09:02:27] [INFO] ChromaDB memory collection ready.
+[09:02:30] [ERROR] Ollama connection failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+[09:02:30] [ERROR] Make sure Ollama is running: https://ollama.ai
+[09:02:30] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[09:02:30] [INFO] IntentRouter: Ollama connected for intent parsing
+[09:02:44] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[09:02:45] [INFO] Using speech_recognition fallback for wake word…
+[08:29:06] [INFO] Initializing JARVIS V2.2 components…
+[08:29:06] [INFO] Loading V2.1 components…
+[08:29:07] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[08:29:07] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[08:29:11] [INFO] ChromaDB memory collection ready.
+[08:29:12] [INFO] Ollama connected. Model: llama3.2
+[08:29:12] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[08:29:12] [INFO] IntentRouter: Ollama connected for intent parsing
+[08:29:21] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[08:29:22] [INFO] Using speech_recognition fallback for wake word…
+[09:24:00] [INFO] Initializing JARVIS V2.2 components…
+[09:24:00] [INFO] Loading V2.1 components…
+[09:24:01] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[09:24:01] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[09:24:07] [INFO] ChromaDB memory collection ready.
+[09:24:08] [INFO] Ollama connected. Model: llama3.2
+[09:24:08] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[09:24:08] [INFO] IntentRouter: Ollama connected for intent parsing
+[09:24:22] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[09:24:24] [INFO] Using speech_recognition fallback for wake word…
+[12:25:09] [INFO] Initializing JARVIS V2.2 components…
+[12:25:09] [INFO] Loading V2.1 components…
+[12:25:09] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[12:25:09] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[12:25:10] [INFO] ChromaDB memory collection ready.
+[12:25:10] [INFO] Ollama connected. Model: llama3.2
+[12:25:10] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[12:25:10] [INFO] IntentRouter: Ollama connected for intent parsing
+[12:25:11] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[12:25:12] [INFO] Using speech_recognition fallback for wake word…
+[12:25:50] [INFO] Wake word detected via fallback.
+[12:25:51] [INFO] Loading Whisper model 'base' on cpu…
+[12:26:30] [INFO] Whisper model ready.
+[12:26:51] [INFO] IntentRouter parsed: action=youtube_search
+[12:26:51] [INFO] Intent parsed: youtube_search
+[12:26:51] [INFO] BrowserSkill: YouTube search for 'TMKOC'
+[12:26:51] [INFO] SkillRegistry: action 'youtube_search' -> browser
+[12:27:17] [INFO] IntentRouter parsed: action=general_chat
+[12:27:17] [INFO] Intent parsed: general_chat
+[12:27:56] [INFO] IntentRouter parsed: action=play_spotify
+[12:27:56] [INFO] Intent parsed: play_spotify
+[12:27:56] [INFO] SkillRegistry: action 'play_spotify' -> app_launcher
+[12:28:05] [INFO] IntentRouter parsed: action=play_spotify
+[12:28:05] [INFO] Intent parsed: play_spotify
+[12:28:05] [INFO] SkillRegistry: action 'play_spotify' -> app_launcher
+[12:28:16] [INFO] IntentRouter parsed: action=youtube_search
+[12:28:16] [INFO] Intent parsed: youtube_search
+[12:28:17] [INFO] BrowserSkill: YouTube search for 'lay on'
+[12:28:17] [INFO] SkillRegistry: action 'youtube_search' -> browser
+[12:28:29] [WARNING] IntentRouter: JSON parse failed (Expecting ',' delimiter: line 1 column 92 (char 91)), using fallback
+[12:28:29] [INFO] Intent parsed: youtube_search
+[12:28:29] [INFO] BrowserSkill: YouTube search for 'search, play dandelions on YouTube.'
+[12:28:29] [INFO] SkillRegistry: action 'youtube_search' -> browser
+[12:28:48] [INFO] IntentRouter parsed: action=web_search
+[12:28:48] [INFO] Intent parsed: web_search
+[12:28:49] [INFO] Connectivity: Internet is available
+[12:28:54] [INFO] SkillRegistry: action 'web_search' -> web_search
+[12:29:38] [INFO] IntentRouter parsed: action=web_search
+[12:29:38] [INFO] Intent parsed: web_search
+[12:29:46] [INFO] SkillRegistry: action 'web_search' -> web_search
+[12:30:39] [INFO] IntentRouter parsed: action=web_search
+[12:30:39] [INFO] Intent parsed: web_search
+[12:30:42] [INFO] Connectivity: No internet connection
+[12:30:42] [INFO] SkillRegistry: action 'web_search' -> web_search
+[12:31:28] [INFO] IntentRouter parsed: action=general_chat
+[12:31:28] [INFO] Intent parsed: general_chat
+[12:32:21] [INFO] IntentRouter parsed: action=general_chat
+[12:32:21] [INFO] Intent parsed: general_chat
+[12:33:33] [INFO] IntentRouter parsed: action=general_chat
+[12:33:33] [INFO] Intent parsed: general_chat
+[08:58:20] [INFO] Initializing JARVIS V2.2 components…
+[08:58:20] [INFO] Loading V2.1 components…
+[08:58:21] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[08:58:21] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[08:58:28] [INFO] ChromaDB memory collection ready.
+[08:58:29] [INFO] Ollama connected. Model: llama3.2
+[08:58:29] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[08:58:29] [INFO] IntentRouter: Ollama connected for intent parsing
+[08:58:41] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[08:58:42] [INFO] Using speech_recognition fallback for wake word…
+[08:58:58] [INFO] Wake word detected via fallback.
+[08:59:13] [INFO] Loading Whisper model 'base' on cpu…
+[08:59:45] [INFO] Whisper model ready.
+[09:00:06] [INFO] IntentRouter parsed: action=open_app
+[09:00:06] [INFO] Intent parsed: open_app
+[09:00:06] [INFO] AppLauncher: Opened Brave via 'start Brave'
+[09:00:06] [INFO] SkillRegistry: action 'open_app' -> app_launcher
+[09:00:38] [INFO] IntentRouter parsed: action=youtube_search
+[09:00:38] [INFO] Intent parsed: youtube_search
+[09:00:46] [ERROR] BrowserSkill: WebDriver init failed: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x1287c13+10dd3]
+	chromedriver!GetHandleVerifier [0x1287d44+10f04]
+	chromedriver!(No symbol) [0x1061f50]
+	chromedriver!(No symbol) [0x10972cc]
+	chromedriver!(No symbol) [0x10924b0]
+	chromedriver!(No symbol) [0x10d9aef]
+	chromedriver!(No symbol) [0x10d9307]
+	chromedriver!(No symbol) [0x10cd6a6]
+	chromedriver!(No symbol) [0x10a0029]
+	chromedriver!(No symbol) [0x10a0de4]
+	chromedriver!GetHandleVerifier [0x14e4509+26d6c9]
+	chromedriver!GetHandleVerifier [0x14dfb43+268d03]
+	chromedriver!GetHandleVerifier [0x14fd85b+286a1b]
+	chromedriver!GetHandleVerifier [0x12a1668+2a828]
+	chromedriver!GetHandleVerifier [0x12a97fd+329bd]
+	chromedriver!GetHandleVerifier [0x1290588+19748]
+	chromedriver!GetHandleVerifier [0x1290752+19912]
+	chromedriver!GetHandleVerifier [0x12799da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75ed5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77e7d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e7d7a1+231]
+
+[09:00:48] [INFO] BrowserSkill: Chrome WebDriver initialized (fresh profile)
+[09:00:52] [INFO] BrowserSkill: YouTube search for 'TNTLC' (Selenium)
+[09:00:52] [INFO] SkillRegistry: action 'youtube_search' -> browser
+[09:01:05] [INFO] IntentRouter parsed: action=general_chat
+[09:01:05] [INFO] Intent parsed: general_chat
+[09:01:41] [INFO] IntentRouter parsed: action=youtube_search
+[09:01:41] [INFO] Intent parsed: youtube_search
+[09:02:06] [ERROR] BrowserSkill: WebDriver init failed: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x1287c13+10dd3]
+	chromedriver!GetHandleVerifier [0x1287d44+10f04]
+	chromedriver!(No symbol) [0x1061f50]
+	chromedriver!(No symbol) [0x10972cc]
+	chromedriver!(No symbol) [0x10924b0]
+	chromedriver!(No symbol) [0x10d9aef]
+	chromedriver!(No symbol) [0x10d9307]
+	chromedriver!(No symbol) [0x10cd6a6]
+	chromedriver!(No symbol) [0x10a0029]
+	chromedriver!(No symbol) [0x10a0de4]
+	chromedriver!GetHandleVerifier [0x14e4509+26d6c9]
+	chromedriver!GetHandleVerifier [0x14dfb43+268d03]
+	chromedriver!GetHandleVerifier [0x14fd85b+286a1b]
+	chromedriver!GetHandleVerifier [0x12a1668+2a828]
+	chromedriver!GetHandleVerifier [0x12a97fd+329bd]
+	chromedriver!GetHandleVerifier [0x1290588+19748]
+	chromedriver!GetHandleVerifier [0x1290752+19912]
+	chromedriver!GetHandleVerifier [0x12799da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x75ed5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x77e7d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x77e7d7a1+231]
+
+[09:02:08] [INFO] BrowserSkill: Chrome WebDriver initialized (fresh profile)
+[09:02:11] [INFO] BrowserSkill: YouTube search for 'search terms' (Selenium)
+[09:02:11] [INFO] SkillRegistry: action 'youtube_search' -> browser
+[18:19:29] [INFO] Initializing JARVIS V2.2 components…
+[18:19:29] [INFO] Loading V2.1 components…
+[18:19:30] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[18:19:30] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[18:19:34] [INFO] ChromaDB memory collection ready.
+[18:19:38] [INFO] Ollama connected. Model: llama3.2
+[18:19:38] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[18:19:38] [INFO] IntentRouter: Ollama connected for intent parsing
+[18:19:46] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[18:19:47] [INFO] Using speech_recognition fallback for wake word…
+[18:20:05] [INFO] Wake word detected via fallback.
+[18:20:08] [INFO] Loading Whisper model 'base' on cpu…
+[18:20:40] [INFO] Whisper model ready.
+[18:20:57] [INFO] IntentRouter parsed: action=folder_open
+[18:20:57] [INFO] Intent parsed: folder_open
+[18:20:57] [INFO] FileManager: Fast searching system for folder 'Games'
+[18:20:58] [INFO] FileManager: Found and opened C:\Users\devan\OneDrive\Desktop\Games
+[18:20:58] [INFO] SkillRegistry: action 'folder_open' -> file_manager
+[18:21:17] [WARNING] IntentRouter: JSON parse failed (Extra data: line 2 column 1 (char 68)), using fallback
+[18:21:17] [INFO] Intent parsed: open_app
+[18:21:17] [INFO] AppLauncher: Opened Grand Theft Auto YCT, stream RIP.com folder in games via 'start Grand Theft Auto YCT, stream RIP.com folder in games'
+[18:21:17] [INFO] SkillRegistry: action 'open_app' -> app_launcher
+[01:16:07] [INFO] Initializing JARVIS V2.2 components…
+[01:16:07] [INFO] Loading V2.1 components…
+[01:16:08] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[01:16:08] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[08:59:17] [INFO] Initializing JARVIS V2.2 components…
+[08:59:17] [INFO] Loading V2.1 components…
+[08:59:17] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[08:59:17] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[08:59:23] [INFO] ChromaDB memory collection ready.
+[08:59:24] [INFO] Ollama connected. Model: llama3.2
+[08:59:24] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[08:59:24] [INFO] IntentRouter: Ollama connected for intent parsing
+[08:59:36] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[08:59:37] [INFO] Using speech_recognition fallback for wake word…
+[09:00:11] [INFO] Loading Whisper model 'base' on cpu…
+[09:00:47] [INFO] Whisper model ready.
+[09:01:08] [INFO] IntentRouter parsed: action=general_chat
+[09:01:08] [INFO] Intent parsed: general_chat
+[09:02:06] [INFO] IntentRouter parsed: action=general_chat
+[09:02:06] [INFO] Intent parsed: general_chat
+[09:03:38] [INFO] IntentRouter parsed: action=general_chat
+[09:03:38] [INFO] Intent parsed: general_chat
+[09:04:28] [INFO] IntentRouter parsed: action=general_chat
+[09:04:28] [INFO] Intent parsed: general_chat
+[09:05:15] [INFO] IntentRouter parsed: action=general_chat
+[09:05:15] [INFO] Intent parsed: general_chat
+[09:06:42] [INFO] IntentRouter parsed: action=general_chat
+[09:06:42] [INFO] Intent parsed: general_chat
+[08:43:07] [INFO] Initializing JARVIS V2.2 components…
+[08:43:07] [INFO] Loading V2.1 components…
+[08:43:08] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[08:43:08] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[08:43:11] [INFO] ChromaDB memory collection ready.
+[08:43:11] [INFO] Ollama connected. Model: llama3.2
+[08:43:11] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[08:43:11] [INFO] IntentRouter: Ollama connected for intent parsing
+[08:43:22] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[08:43:22] [INFO] Using speech_recognition fallback for wake word…
+[08:43:40] [INFO] Wake word detected via fallback.
+[08:43:43] [INFO] Loading Whisper model 'base' on cpu…
+[08:44:18] [INFO] Whisper model ready.
+[08:44:36] [INFO] IntentRouter parsed: action=web_search
+[08:44:36] [INFO] Intent parsed: web_search
+[08:44:36] [INFO] Connectivity: Internet is available
+[08:44:38] [INFO] WebSearch: Found 5 results for 'US Iran current work'
+[08:44:38] [INFO] SkillRegistry: action 'web_search' -> web_search
+[08:45:50] [INFO] Wake word detected via fallback.
+[08:46:02] [INFO] IntentRouter parsed: action=general_chat
+[08:46:02] [INFO] Intent parsed: general_chat
+[08:46:59] [INFO] IntentRouter parsed: action=file_edit
+[08:46:59] [INFO] Intent parsed: file_edit
+[08:46:59] [INFO] FileManager: Added 1 lines to C:\Users\devan\Desktop\todo.txt
+[08:46:59] [INFO] SkillRegistry: action 'file_edit' -> file_manager
+[08:47:15] [INFO] IntentRouter parsed: action=general_chat
+[08:47:15] [INFO] Intent parsed: general_chat
+[08:48:20] [WARNING] IntentRouter: JSON parse failed (Extra data: line 2 column 1 (char 84)), using fallback
+[08:48:20] [INFO] Intent parsed: set_reminder
+[08:48:20] [INFO] ToolsSkill: Starting background alarm for 1800s (cancel that 10 minute wake up period cancel that for all time cancel that and add this do 10 heat code questions every day so you're going to remind me every day when my computer boots up you're going to remind me in 10 to 20 minutes that do 10 heat code questions)
+[08:48:20] [INFO] SkillRegistry: action 'set_reminder' -> tools
+[10:14:25] [INFO] Initializing JARVIS V2.2 components…
+[10:14:25] [INFO] Loading V2.1 components…
+[10:14:25] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[10:14:25] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[10:14:26] [INFO] ChromaDB memory collection ready.
+[10:14:28] [ERROR] Ollama connection failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+[10:14:28] [ERROR] Make sure Ollama is running: https://ollama.ai
+[10:14:28] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[10:14:28] [INFO] IntentRouter: Ollama connected for intent parsing
+[10:14:29] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[10:14:30] [INFO] Using speech_recognition fallback for wake word…
+[09:01:20] [INFO] Initializing JARVIS V2.2 components…
+[09:01:20] [INFO] Loading V2.1 components…
+[09:01:20] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[09:01:20] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[09:01:24] [INFO] ChromaDB memory collection ready.
+[09:01:25] [INFO] Ollama connected. Model: llama3.2
+[09:01:25] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[09:01:25] [INFO] IntentRouter: Ollama connected for intent parsing
+[09:01:33] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[09:01:34] [INFO] Using speech_recognition fallback for wake word…
+[01:41:21] [INFO] Initializing JARVIS V2.2 components…
+[01:41:21] [INFO] Loading V2.1 components…
+[01:41:21] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[01:41:21] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[01:41:25] [INFO] ChromaDB memory collection ready.
+[01:41:26] [INFO] Ollama connected. Model: llama3.2
+[01:41:26] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[01:41:26] [INFO] IntentRouter: Ollama connected for intent parsing
+[01:41:35] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[01:41:35] [INFO] Using speech_recognition fallback for wake word…
+[01:41:56] [INFO] Loading Whisper model 'base' on cpu…
+[01:41:56] [INFO] Wake word detected via fallback.
+[01:42:27] [INFO] Whisper model ready.
+[01:42:29] [ERROR] IntentRouter error: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+[01:42:29] [INFO] Intent parsed: general_chat
+[01:42:32] [ERROR] LLM think error: [WinError 10061] No connection could be made because the target machine actively refused it
+[01:44:11] [INFO] Wake word detected via fallback.
+[01:44:31] [INFO] IntentRouter parsed: action=general_chat
+[01:44:31] [INFO] Intent parsed: general_chat
+[01:54:02] [INFO] Wake word detected via fallback.
+[01:54:19] [INFO] IntentRouter parsed: action=file_create
+[01:54:19] [INFO] Intent parsed: file_create
+[01:54:19] [INFO] SkillRegistry: action 'file_create' -> file_manager
+[01:54:39] [INFO] IntentRouter parsed: action=web_search
+[01:54:39] [INFO] Intent parsed: web_search
+[01:54:39] [INFO] Connectivity: Internet is available
+[01:54:41] [INFO] WebSearch: Found 5 results for 'U.S. Iran War updates'
+[01:54:41] [INFO] SkillRegistry: action 'web_search' -> web_search
+[01:56:09] [INFO] IntentRouter parsed: action=file_create
+[01:56:09] [INFO] Intent parsed: file_create
+[01:56:09] [INFO] FileManager: Created C:\Users\devan\Desktop\push_to_github.txt
+[01:56:09] [INFO] SkillRegistry: action 'file_create' -> file_manager
+[01:56:28] [INFO] IntentRouter parsed: action=web_search
+[01:56:28] [INFO] Intent parsed: web_search
+[01:56:31] [INFO] SkillRegistry: action 'web_search' -> web_search
+[10:13:05] [WARNING] IntentRouter: No 'action' in LLM response, falling back
+[10:13:05] [INFO] Intent parsed: general_chat
+[22:57:33] [INFO] Initializing JARVIS V2.2 components…
+[22:57:33] [INFO] Loading V2.1 components…
+[22:57:33] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[22:57:33] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[22:57:37] [INFO] ChromaDB memory collection ready.
+[22:57:40] [INFO] Ollama connected. Model: llama3.2
+[22:57:40] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[22:57:40] [INFO] IntentRouter: Ollama connected for intent parsing
+[22:57:48] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[22:57:49] [INFO] Using speech_recognition fallback for wake word…
+[22:58:13] [INFO] Wake word detected via fallback.
+[22:58:14] [INFO] Loading Whisper model 'base' on cpu…
+[22:58:41] [INFO] Whisper model ready.
+[22:58:44] [ERROR] IntentRouter error: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+[22:58:44] [INFO] Intent parsed: open_app
+[22:58:44] [INFO] AppLauncher: Opened the portal. I will shoot the end of the reading that goes good. Tell the guard again. Open the gate Jarvis. And it's three time tell the channel. Slow air via 'start the portal. I will shoot the end of the reading that goes good. Tell the guard again. Open the gate Jarvis. And it's three time tell the channel. Slow air'
+[22:58:44] [INFO] SkillRegistry: action 'open_app' -> app_launcher
+[22:59:30] [INFO] IntentRouter parsed: action=general_chat
+[22:59:30] [INFO] Intent parsed: general_chat
+[23:00:08] [INFO] IntentRouter parsed: action=youtube_search
+[23:00:08] [INFO] Intent parsed: youtube_search
+[23:00:17] [ERROR] BrowserSkill: WebDriver init failed: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xe3cdf3+10b03]
+	chromedriver!GetHandleVerifier [0xe3cf24+10c34]
+	chromedriver!(No symbol) [0xc22120]
+	chromedriver!(No symbol) [0xc574ab]
+	chromedriver!(No symbol) [0xc52690]
+	chromedriver!(No symbol) [0xc99cbf]
+	chromedriver!(No symbol) [0xc994d7]
+	chromedriver!(No symbol) [0xc8d8a6]
+	chromedriver!(No symbol) [0xc60229]
+	chromedriver!(No symbol) [0xc60fe4]
+	chromedriver!GetHandleVerifier [0x10a48b9+2785c9]
+	chromedriver!GetHandleVerifier [0x109feb5+273bc5]
+	chromedriver!GetHandleVerifier [0x10be06b+291d7b]
+	chromedriver!GetHandleVerifier [0xe55cc8+299d8]
+	chromedriver!GetHandleVerifier [0xe5d9fd+3170d]
+	chromedriver!GetHandleVerifier [0xe458c8+195d8]
+	chromedriver!GetHandleVerifier [0xe45a92+197a2]
+	chromedriver!GetHandleVerifier [0xe2ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x75375d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7795d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7795d7a1+231]
+
+[23:00:19] [INFO] BrowserSkill: Chrome WebDriver initialized (fresh profile)
+[23:00:22] [INFO] BrowserSkill: YouTube search for 'rover' (Selenium)
+[23:00:22] [INFO] SkillRegistry: action 'youtube_search' -> browser
+[23:00:37] [INFO] IntentRouter parsed: action=general_chat
+[23:00:37] [INFO] Intent parsed: general_chat
+[23:01:21] [INFO] IntentRouter parsed: action=web_search
+[23:01:21] [INFO] Intent parsed: web_search
+[23:01:22] [INFO] Connectivity: Internet is available
+[23:01:23] [INFO] WebSearch: Found 5 results for 'current U.S. Iran conflict'
+[23:01:23] [INFO] SkillRegistry: action 'web_search' -> web_search
+[23:02:21] [INFO] IntentRouter parsed: action=folder_open
+[23:02:21] [INFO] Intent parsed: folder_open
+[23:02:21] [INFO] FileManager: Fast searching system for folder 'games'
+[23:02:22] [INFO] FileManager: Found and opened C:\Users\devan\OneDrive\Desktop\Games
+[23:02:22] [INFO] SkillRegistry: action 'folder_open' -> file_manager
+[23:02:35] [INFO] IntentRouter parsed: action=general_chat
+[23:02:35] [INFO] Intent parsed: general_chat
+[09:38:59] [INFO] Initializing JARVIS V2.2 components…
+[09:38:59] [INFO] Loading V2.1 components…
+[09:38:59] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[09:38:59] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[09:39:03] [INFO] ChromaDB memory collection ready.
+[09:39:04] [INFO] Ollama connected. Model: llama3.2
+[09:39:04] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[09:39:04] [INFO] IntentRouter: Ollama connected for intent parsing
+[09:55:46] [INFO] Initializing JARVIS V2.2 components…
+[09:55:46] [INFO] Loading V2.1 components…
+[09:55:47] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[09:55:47] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[09:55:51] [INFO] ChromaDB memory collection ready.
+[09:55:54] [ERROR] Ollama connection failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+[09:55:54] [ERROR] Make sure Ollama is running: https://ollama.ai
+[09:55:54] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[09:55:54] [INFO] IntentRouter: Ollama connected for intent parsing
+[09:56:03] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[09:56:03] [INFO] Using speech_recognition fallback for wake word…
+[09:56:24] [INFO] Wake word detected via fallback.
+[09:56:24] [INFO] Loading Whisper model 'base' on cpu…
+[09:56:51] [INFO] Whisper model ready.
+[09:56:54] [ERROR] IntentRouter error: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+[09:56:54] [INFO] Intent parsed: open_app
+[09:56:54] [INFO] AppLauncher: Opened Brains via 'start Brains'
+[09:56:54] [INFO] SkillRegistry: action 'open_app' -> app_launcher
+[09:57:08] [ERROR] IntentRouter error: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+[09:57:08] [INFO] Intent parsed: open_app
+[09:57:08] [INFO] AppLauncher: Opened Brave Application via 'start Brave Application'
+[09:57:08] [INFO] SkillRegistry: action 'open_app' -> app_launcher
+[09:57:38] [INFO] IntentRouter parsed: action=open_app
+[09:57:38] [INFO] Intent parsed: open_app
+[09:57:38] [INFO] AppLauncher: Opened breathe via 'start breathe'
+[09:57:38] [INFO] SkillRegistry: action 'open_app' -> app_launcher
+[09:57:48] [INFO] IntentRouter parsed: action=open_app
+[09:57:48] [INFO] Intent parsed: open_app
+[09:57:48] [INFO] AppLauncher: Opened Brave via 'start Brave'
+[09:57:48] [INFO] SkillRegistry: action 'open_app' -> app_launcher
+[10:01:00] [INFO] IntentRouter parsed: action=web_search
+[10:01:00] [INFO] Intent parsed: web_search
+[10:01:00] [INFO] Connectivity: Internet is available
+[10:01:05] [INFO] SkillRegistry: action 'web_search' -> web_search
+[10:01:23] [INFO] IntentRouter parsed: action=web_search
+[10:01:23] [INFO] Intent parsed: web_search
+[10:01:26] [INFO] SkillRegistry: action 'web_search' -> web_search
+[00:51:34] [INFO] Initializing JARVIS V2.2 components…
+[00:51:35] [INFO] Loading V2.1 components…
+[00:51:35] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[00:51:35] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[00:51:39] [INFO] ChromaDB memory collection ready.
+[00:51:40] [INFO] Ollama connected. Model: llama3.2
+[00:51:40] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[00:51:40] [INFO] IntentRouter: Ollama connected for intent parsing
+[00:51:47] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[00:51:48] [INFO] Using speech_recognition fallback for wake word…
+[01:04:45] [INFO] Initializing JARVIS V2.2 components…
+[01:04:45] [INFO] Loading V2.1 components…
+[01:04:46] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[01:04:46] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[01:04:49] [INFO] ChromaDB memory collection ready.
+[01:04:50] [INFO] Ollama connected. Model: llama3.2
+[01:04:50] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[01:04:50] [INFO] IntentRouter: Ollama connected for intent parsing
+[01:04:57] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[01:04:57] [INFO] Using speech_recognition fallback for wake word…
+[20:35:57] [INFO] Initializing JARVIS V2.2 components…
+[20:35:57] [INFO] Loading V2.1 components…
+[20:35:58] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[20:35:58] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[20:36:03] [INFO] ChromaDB memory collection ready.
+[06:54:08] [INFO] Initializing JARVIS V2.2 components…
+[06:54:08] [INFO] Loading V2.1 components…
+[06:54:09] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[06:54:09] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[06:54:12] [INFO] ChromaDB memory collection ready.
+[06:54:12] [INFO] Ollama connected. Model: llama3.2
+[06:54:12] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[06:54:12] [INFO] IntentRouter: Ollama connected for intent parsing
+[06:54:20] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[06:54:21] [INFO] Using speech_recognition fallback for wake word…
+[06:54:43] [INFO] Loading Whisper model 'base' on cpu…
+[06:55:14] [INFO] Whisper model ready.
+[06:55:32] [INFO] IntentRouter parsed: action=general_chat
+[06:55:32] [INFO] Intent parsed: general_chat
+[06:56:11] [INFO] IntentRouter parsed: action=open_app
+[06:56:11] [INFO] Intent parsed: open_app
+[06:56:11] [INFO] AppLauncher: Opened brave via 'start brave'
+[06:56:11] [INFO] SkillRegistry: action 'open_app' -> app_launcher
+[07:53:19] [INFO] IntentRouter parsed: action=web_search
+[07:53:19] [INFO] Intent parsed: web_search
+[07:53:19] [INFO] Connectivity: Internet is available
+[07:53:22] [INFO] SkillRegistry: action 'web_search' -> web_search
+[08:43:22] [INFO] IntentRouter parsed: action=general_chat
+[08:43:22] [INFO] Intent parsed: general_chat
+[08:44:13] [INFO] IntentRouter parsed: action=youtube_search
+[08:44:13] [INFO] Intent parsed: youtube_search
+[08:44:23] [ERROR] BrowserSkill: WebDriver init failed: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x54cdf3+10b03]
+	chromedriver!GetHandleVerifier [0x54cf24+10c34]
+	chromedriver!(No symbol) [0x332120]
+	chromedriver!(No symbol) [0x3674ab]
+	chromedriver!(No symbol) [0x362690]
+	chromedriver!(No symbol) [0x3a9cbf]
+	chromedriver!(No symbol) [0x3a94d7]
+	chromedriver!(No symbol) [0x39d8a6]
+	chromedriver!(No symbol) [0x370229]
+	chromedriver!(No symbol) [0x370fe4]
+	chromedriver!GetHandleVerifier [0x7b48b9+2785c9]
+	chromedriver!GetHandleVerifier [0x7afeb5+273bc5]
+	chromedriver!GetHandleVerifier [0x7ce06b+291d7b]
+	chromedriver!GetHandleVerifier [0x565cc8+299d8]
+	chromedriver!GetHandleVerifier [0x56d9fd+3170d]
+	chromedriver!GetHandleVerifier [0x5558c8+195d8]
+	chromedriver!GetHandleVerifier [0x555a92+197a2]
+	chromedriver!GetHandleVerifier [0x53ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x74f85d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7719d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7719d7a1+231]
+
+[08:44:26] [INFO] BrowserSkill: Chrome WebDriver initialized (fresh profile)
+[08:44:31] [INFO] BrowserSkill: YouTube search for 'dandelions' (Selenium)
+[08:44:31] [INFO] SkillRegistry: action 'youtube_search' -> browser
+[08:56:35] [INFO] IntentRouter parsed: action=general_chat
+[08:56:35] [INFO] Intent parsed: general_chat
+[08:51:56] [INFO] Initializing JARVIS V2.2 components…
+[08:51:56] [INFO] Loading V2.1 components…
+[08:51:57] [INFO] TTS initialized. Voice: Microsoft David Desktop - English (United States), Rate: 165
+[08:51:58] [INFO] Memory SQLite ready at C:\Users\devan\.gemini\antigravity\scratch\jarvis\data\memory\jarvis_memory.db
+[08:52:02] [INFO] ChromaDB memory collection ready.
+[08:52:03] [INFO] Ollama connected. Model: gemma
+[08:52:03] [INFO] SkillRegistry V2 loaded: ['tools', 'memory', 'file_manager', 'system_control', 'datetime', 'notes', 'app_launcher', 'clipboard', 'browser', 'file_search', 'web_search']
+[08:52:03] [INFO] IntentRouter: Ollama connected for intent parsing
+[08:52:18] [WARNING] OpenWakeWord load failed: [ONNXRuntimeError] : 3 : NO_SUCHFILE : Load model from C:\Users\devan\.gemini\antigravity\scratch\jarvis\venv\Lib\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed:Load model C:\Users\devan\.gemini\antigravity\scratch\jarvis\venv\Lib\site-packages\openwakeword\resources/models/hey_jarvis_v0.1.onnx failed. File doesn't exist. Using energy fallback.
+[08:52:34] [INFO] Loading Whisper model 'base' on cpu…
+[08:52:56] [INFO] Whisper model ready.
+[08:52:57] [ERROR] IntentRouter error: model 'gemma' not found (status code: 404)
+[08:52:57] [INFO] Intent parsed: general_chat
+[08:52:58] [ERROR] LLM think error: model 'gemma' not found (status code: 404)

@@ -1,0 +1,51 @@
+# ============================================================
+#  JARVIS V2 — Python Dependencies
+# ============================================================
+
+# Core
+pyyaml>=6.0
+colorama>=0.4.6
+rich>=13.0
+
+# Audio / Microphone
+pyaudio>=0.2.14
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.24.0
+
+# Wake Word Detection
+openwakeword>=0.6.0
+
+# Speech-to-Text (Whisper)
+faster-whisper>=1.0.0
+
+# Text-to-Speech
+pyttsx3>=2.90
+
+# LLM (Ollama client)
+ollama>=0.1.7
+
+# Memory / Vector DB
+chromadb>=0.4.24
+sentence-transformers>=2.6.0
+
+# Skills support
+pyperclip>=1.8.2       # clipboard
+psutil>=5.9.8          # system info
+pycaw>=20181226        # Windows audio control
+comtypes>=1.2.0        # required by pycaw
+
+# Browser Automation (V2)
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# Web Search (V2 — no API key needed)
+duckduckgo-search>=4.0.0
+
+# System tray icon
+pystray>=0.19.5
+Pillow>=10.0.0
+
+# Utilities
+python-dateutil>=2.8.2
+requests>=2.31.0

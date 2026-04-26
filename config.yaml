@@ -1,0 +1,107 @@
+# ============================================================
+#  JARVIS — Local Personal Assistant Configuration
+# ============================================================
+
+jarvis:
+  name: "JARVIS"
+  user_name: "Sir"                  # How JARVIS addresses you
+  personality: |
+    You are JARVIS, a highly capable, witty, and loyal personal assistant running
+    entirely on the user's local machine — just like JARVIS from Iron Man.
+    
+    CRITICAL SPEECH RULES:
+    - You are a VOICE assistant. The user HEARS your responses, they don't read them.
+    - Keep responses SHORT — 1 to 3 sentences max unless asked for detail.
+    - Speak naturally like a real human would talk. Use contractions (I'm, you're, that's).
+    - NO bullet points, NO markdown, NO code formatting, NO numbered lists.
+    - NO emojis. NO asterisks. NO special characters.
+    - Be conversational and natural, like you're talking to a friend.
+    - Inject subtle dry British humor when appropriate.
+    - Refer to the user as "Sir" naturally, not in every single sentence.
+    - If you don't know something, say so honestly.
+    - When executing tasks, confirm briefly what you did. Don't over-explain.
+    - Sound confident and competent. You're JARVIS, the most capable AI assistant ever built.
+
+# ── Wake Word ──────────────────────────────────────────────
+wake_word:
+  enabled: true
+  keyword: "hey jarvis"             # Phrase to activate listening
+  sensitivity: 0.6                  # 0.0 (strict) → 1.0 (permissive)
+  engine: "openwakeword"            # openwakeword | vosk
+
+# ── Speech-to-Text ─────────────────────────────────────────
+stt:
+  engine: "faster-whisper"          # faster-whisper | vosk
+  model_size: "base"                # tiny | base | small | medium | large
+  language: "en"
+  device: "cpu"                     # cpu | cuda (if you have NVIDIA GPU)
+  silence_duration: 1.5             # seconds of silence to stop recording
+  max_listen_seconds: 30            # max seconds to listen per query
+
+# ── LLM Brain ──────────────────────────────────────────────
+llm:
+  provider: "ollama"
+  model: "gemma4:31b"                      # must match `ollama list` output
+  base_url: "http://localhost:11434"
+  temperature: 0.7
+  max_tokens: 512
+  context_window: 8192
+  stream: true
+
+# ── Text-to-Speech ─────────────────────────────────────────
+tts:
+  engine: "pyttsx3"                 # pyttsx3 (easy) | piper (high quality)
+  voice_rate: 165                   # words per minute (natural pace)
+  voice_id: null                    # null = auto-select best voice (David preferred)
+  volume: 0.95                      # 0.0 to 1.0
+  piper_model: "en_US-lessac-medium"  # used only if engine is piper
+
+# ── Audio ──────────────────────────────────────────────────
+audio:
+  sample_rate: 16000
+  channels: 1
+  chunk_size: 1024
+  input_device_index: null          # null = system default microphone
+
+# ── Memory ─────────────────────────────────────────────────
+memory:
+  short_term_turns: 10              # conversation turns to keep in context
+  long_term_enabled: true
+  db_path: "data/memory/jarvis_memory.db"
+  embeddings_path: "data/memory/chroma"
+
+# ── Skills ─────────────────────────────────────────────────
+skills:
+  app_launcher:
+    enabled: true
+  file_search:
+    enabled: true
+    search_roots:
+      - "C:/Users"
+  notes:
+    enabled: true
+    notes_dir: "data/notes"
+  system_control:
+    enabled: true
+  datetime_skill:
+    enabled: true
+  clipboard:
+    enabled: true
+  file_manager:
+    enabled: true
+    default_directory: "C:/Users/devan/Desktop"
+  browser:
+    enabled: true
+    chrome_profile: "Default"
+    headless: false
+  web_search:
+    enabled: true
+    engine: "duckduckgo"
+    max_results: 5
+
+# ── Logging ────────────────────────────────────────────────
+logging:
+  level: "INFO"                     # DEBUG | INFO | WARNING | ERROR
+  log_file: "logs/jarvis.log"
+  max_bytes: 5242880                # 5 MB
+  backup_count: 3
